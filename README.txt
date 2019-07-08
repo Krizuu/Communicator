@@ -1,0 +1,1 @@
+g++ f_name.cpp -o f_name.exe -lws2_32
